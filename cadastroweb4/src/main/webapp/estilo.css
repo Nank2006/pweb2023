@@ -1,0 +1,10 @@
+@charset "ISO-8859-1";
+
+h3{
+	color: blue;
+	font-family: Arial;
+}
+
+#div{
+  text-align: center;
+}

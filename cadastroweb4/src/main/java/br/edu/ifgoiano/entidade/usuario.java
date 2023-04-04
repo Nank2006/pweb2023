@@ -3,12 +3,12 @@ package br.edu.ifgoiano.entidade;
 import java.util.Date;
 
 public class usuario {
- 
+
 	private String nome;
-	private String email;
-	private String senha;
-	private String senha2;
-	private Date data;
+	 private String email;
+	 private String senha;
+	 private String senha2;
+	 private Date data;
 	public String getNome() {
 		return nome;
 	}
@@ -40,5 +40,5 @@ public class usuario {
 		this.data = data;
 	}
 	
-
+	 
 }
